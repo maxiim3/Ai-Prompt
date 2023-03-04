@@ -15,3 +15,6 @@ Here is a prompt to improve the AI's answers:
 Feel free to give your feedbacks, use it, improve it.
 
 note: I used the AI to improve the prompt :)
+
+
+Image cover generated with [Playground AI](https://playgroundai.com/post/cletk95b907vts601ylqumyug)
