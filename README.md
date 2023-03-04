@@ -1,3 +1,5 @@
+![Ai-Prompt Cover Image](/cover.png)
+
 # Ai-Prompt
 
 Here is a prompt to improve the AI's answers:
