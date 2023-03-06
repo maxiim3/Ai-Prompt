@@ -1,6 +1,6 @@
 ![Ai-Prompt Cover Image](/cover.png)
 
-# Ai-Prompt for web developers
+# Ai-Prompt for developers and designers
 
 1. Open your favorite bot.
 2. Go to ai-prompt-daisy.md.
@@ -19,8 +19,11 @@ It should:
 - Invite questions or feedback to ensure understanding.
 
 --- 
+Inspired by [DAN prompt](https://github.com/f/awesome-chatgpt-prompts/issues/255)
+
 
 Feel free to give your feedbacks, use it, improve it.
+
 
 note: I used the AI to improve the prompt :)
 
